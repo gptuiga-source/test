@@ -1,0 +1,25 @@
+# Виртуальные окружения
+.venv/
+venv/
+env/
+
+# Настройки IDE и редакторов
+.idea/
+.vscode/
+
+# Кэш и скомпилированные файлы Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+
+# Переменные окружения и секреты
+.env
+.env.*
+
+# Логи и временные файлы ОС
+*.log
+.DS_Store
+Thumbs.db
